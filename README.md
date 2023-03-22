@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IvanToledo
-- 👀 I’m interested in programming content, programming class, web development, design digital and cyber security.
-- 🌱 I’m currently learning system development
-- 💥 I’m try collaborate by downloading my School and personal projecta on Github.
+Hi, I'm @IvanToledo
+👀 I am interested in content programming, front end programming, back end, database, web development, digital design and cybersecurity classes.
+🌱 I am currently studying Systems Development courses
+💥 I'm trying to collaborate by downloading school projects and personal projects on Github.
 
 <!---
-"Apegados às coisas do mundo, do que valerá termos sidos tímidos?" ---!>
+"O conhecimento emancipa, mas só a luta emancipa!" ---!>
